@@ -1,0 +1,42 @@
+/*header-start*/
+#logo {
+    height: 50px;
+    width: 175px;
+    background-color: #000;
+}
+#acc {
+    height: 30px;
+    width: 30px;
+}
+/*header-end*/
+/*nav-start*/
+.navbar {
+    background-image: linear-gradient(blue, #0d6efd);
+}
+/*nav-end*/
+/*main-start*/
+.container {
+    margin-top: 70px;
+}
+.container-caln {
+    padding-top: 20px;
+}
+.header-cells {
+    text-align: center;
+}
+
+.body-cells {
+    text-align: start;
+}
+
+.date {
+    text-align: end;
+}
+
+.cell {
+    height: 100px !important;
+    max-height: 100px !important;
+    width: 100px !important;
+    max-width: 100px !important;
+}
+/*main-end*/
