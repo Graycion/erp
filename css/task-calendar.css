@@ -11,7 +11,7 @@
 /*header-end*/
 /*nav-start*/
 .navbar {
-    background-image: linear-gradient(blue, #0d6efd);
+    background-image: linear-gradient(#727cf5, #536de6);
     box-shadow: 0px 20px 60px lightgray;
 }
 /*nav-end*/
@@ -22,6 +22,10 @@
 }
 .container-caln {
     padding-top: 20px;
+}
+.btn {
+    background-color: #536de6;
+    border-color: #536de6;
 }
 .header-cells {
     text-align: center;
@@ -41,6 +45,9 @@
     width: 100px !important;
     max-width: 100px !important;
 }
+.next-month {
+    color: lightgray;
+}
 /*main-end*/
 /*footer-start*/
 .footer{
@@ -49,5 +56,8 @@
 }
 .btn-link {
     text-decoration: none;
+    background-color: #fff;
+    border-color: #fff;
+    color: #536de6;
 }
 /*footer-end*/
