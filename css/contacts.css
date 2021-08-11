@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    font-family: Nunito,sans-serif;
+    font-size: .9rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #6c757d;
+    background-color: #fafbfe;
+    overflow-x: hidden;
+}
+/*header-start*/
+.header {
+    height: 62px;
+}
+#logo {
+    height: 50px;
+    width: 175px;
+    background-color: #000;
+}
+.account {
+    height: 62px;
+}
+#acc {
+    height: 30px;
+    width: 30px;
+}
+/*header-end*/
+/*nav-start*/
+.navbar {
+    background-image: linear-gradient(#727cf5, #536de6);
+    box-shadow: 0px 20px 60px lightgray;
+}
+/*nav-end*/
+/*main-start*/
+.main {
+    margin-top: 100px;
+}
+    /*side-bar*/
+    .side-bar {
+        height: 200px;
+    }
+    /*container*/
+    .container {
+        height: 70vh;
+    }
+    .card {
+        height: 200px;
+        width: 400px;
+    }
+/*main-end*/
+/*footer-start*/
+.footer{
+    margin-top: 50px;
+    height: 72px;
+}
+.btn-link {
+    text-decoration: none;
+    background-color: #fff;
+    border-color: #fff;
+    color: #536de6;
+}
+/*footer-end*/
