@@ -13,17 +13,17 @@ body {
     height: 62px;
 }
 #logo {
-    height: 50px;
-    width: 175px;
-    background-color: #000;
-}
-.account {
-    height: 62px;
-}
-#acc {
-    height: 30px;
-    width: 30px;
-}
+        height: 50px;
+        width: 175px;
+        background-color: #000;
+    }
+    .account {
+        height: 62px;
+    }
+    #acc {
+        height: 30px;
+        width: 30px;
+    }
 /*header-end*/
 /*nav-start*/
 .navbar {
@@ -36,8 +36,8 @@ body {
     margin-top: 100px;
 }
     /*side-bar*/
-    .side-bar {
-        height: 200px;
+    .top-bar {
+        height: 100px;
     }
     /*container*/
     .container {
@@ -53,10 +53,10 @@ body {
     margin-top: 50px;
     height: 72px;
 }
-.btn-link {
-    text-decoration: none;
-    background-color: #fff;
-    border-color: #fff;
-    color: #536de6;
-}
+    .btn-link {
+        text-decoration: none;
+        background-color: #fff;
+        border-color: #fff;
+        color: #536de6;
+    }
 /*footer-end*/
